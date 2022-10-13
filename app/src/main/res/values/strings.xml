@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <!--    APP    -->
+    <string name="app_welcome">SELAMAT DATANG</string>
+    <string name="app_menu">MENU</string>
+    <string name="app_info">INFORMASI</string>
+    <string name="app_username">USER</string>
+
+    <!--   Authentication    -->
+    <string name="input_nip">Masukkan NIP</string>
+    <string name="input_fingerid">Masukkan Finger ID</string>
+    <string name="input_captcha">Confirm not robot</string>
+    <string name="masuk">MASUK</string>
+
+</resources>
