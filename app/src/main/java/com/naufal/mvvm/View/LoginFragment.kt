@@ -58,9 +58,6 @@ class LoginFragment : Fragment() {
         vm.login(LoginRequest(nip, fingerid, recaptcha))
     }
 
-    private fun isFormEmpty(): Boolean =
-        et_nip.text.isNullOrEmpty() || et_fingerid.text.isNullOrEmpty()
-
     // Move to home screen
 //    private fun moveToDashboard() {
 //        val direction = R.id.action_LoginFragment_to_DashboardFragment
